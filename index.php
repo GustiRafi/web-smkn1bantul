@@ -27,7 +27,7 @@
             <div class="offcanvas offcanvas-start bg-white text-white" tabindex="-1"
                 aria-labelledby="offcanvasExampleLabel" id="offcanvasExample">
                 <div class="offcanvas-header">
-                    <h5 class="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5>
+                    <h5 class="offcanvas-title" id="offcanvasExampleLabel">SMK N 1 BANTUL</h5>
                     <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"
                         id="close-tgl"></button>
                 </div>
@@ -92,29 +92,36 @@
                 <div class="container mt-6">
                     <div class="row row-cols-1 row-cols-md-3 g-4">
                         <div class="col ">
-                            <div class="card bg-info text-white text-center  ">
-                                <h3 class="pt-3"><i class="bi bi-trophy-fill"></i></h3>
-                                <h3>Prestasi</h3>
-                                <p>Siswa SMK N 1 Bantul terus menoreh prestasi diberbagai bidang baik akademik maupun
-                                    non akademik</p>
+                            <div data-aos="zoom-in" data-aos-delay="300">
+                                <div class="card bg-info text-white text-center shadow ">
+                                    <h3 class="pt-3"><i class="bi bi-trophy-fill"></i></h3>
+                                    <h3>Prestasi</h3>
+                                    <p>Siswa SMK N 1 Bantul terus menoreh prestasi diberbagai bidang baik akademik
+                                        maupun
+                                        non akademik</p>
+                                </div>
                             </div>
                         </div>
                         <div class="col">
-                            <div class="card bg-info text-white text-center">
-                                <h3 class="pt-3"><i class="bi bi-building "></i></h3>
-                                <h3>Fasilitas</h3>
-                                <p class="pb-2">SMK N 1 Bantul memiliki sarana prasarana yang lengkap dan mampu
-                                    menunjang kegiatan
-                                    siswa</p>
-                                <p></p>
+                            <div data-aos="zoom-in" data-aos-delay="400">
+                                <div class="card bg-info text-white text-center shadow">
+                                    <h3 class="pt-3"><i class="bi bi-building "></i></h3>
+                                    <h3>Fasilitas</h3>
+                                    <p class="pb-2">SMK N 1 Bantul memiliki sarana prasarana yang lengkap dan mampu
+                                        menunjang kegiatan
+                                        siswa</p>
+                                    <p></p>
+                                </div>
                             </div>
                         </div>
                         <div class="col">
-                            <div class="card bg-info text-white text-center">
-                                <h3 class="pt-3"><i class="bi bi-book-half "></i></h3>
-                                <h3>Akademi</h3>
-                                <p class="pb-2">SMK N 1 Bantul meiliki 8 bidang kehalian yang sangat unggul</p>
-                                <p></p>
+                            <div data-aos="zoom-in">
+                                <div class="card bg-info text-white text-center shadow">
+                                    <h3 class="pt-3"><i class="bi bi-book-half "></i></h3>
+                                    <h3>Akademi</h3>
+                                    <p class="pb-2">SMK N 1 Bantul meiliki 8 bidang kehalian yang sangat unggul</p>
+                                    <p></p>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -139,52 +146,111 @@
                             <h4>Berita </h4>
                         </div>
                         <div data-aos="fade-right">
-                            <a href="#" class="text-decoration-none " data-bs-toggle="tooltip" data-bs-placement="right"
-                                title="Klik untuk melihat detail berita">
-                                <div class="d-flex text-black shadow-sm my-2 link-1">
-                                    <img src="img/berita1.jpeg" alt="Berita 1" srcset="">
-                                    <h6 class="ps-3  py-3"><strong>Juara LKS DIY 2022,SMK 1 BANTUL menuju LKS
-                                            Tingkat
-                                            Nasional</strong>
-                                    </h6>
-                                </div>
-                            </a>
+                            <div class="card mb-3">
+                                <a href="#" class="link-1 text-decoration-none">
+                                    <div class="row row-cols-2 g-0">
+                                        <div class="col-md-4 text-center">
+                                            <img src="img/berita1.jpeg" class="img-fluid mx-2 rounded-5 my-3 "
+                                                alt="...">
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="card-body">
+                                                <h6 class="card-title text-black"><strong>Juara LKS DIY 2022,SMK 1
+                                                        BANTUL menuju
+                                                        LKS
+                                                        Tingkat
+                                                        Nasional</strong></h6>
+                                                <p class="card-text"><small class="text-muted">Posted on
+                                                        20-7-2022</small>
+                                                </p>
+                                                <p class="card-text"><small class="text-muted">Author :
+                                                        Administator</small>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div data-aos="fade-right">
-                            <a href="#" class="text-decoration-none " data-bs-toggle="tooltip" data-bs-placement="right"
-                                title="Klik untuk melihat detail berita">
-                                <div class="d-flex text-black shadow-sm my-2 link-1">
-                                    <img src="img/berita2.jpg" alt="Berita 1" srcset="">
-                                    <h6 class="ps-3  py-3"><strong>Juara LKS DIY 2022,SMK 1 BANTUL menuju LKS
-                                            Tingkat
-                                            Nasional</strong>
-                                    </h6>
-                                </div>
-                            </a>
+                            <div class="card mb-3">
+                                <a href="#" class="link-1 text-decoration-none">
+                                    <div class="row row-cols-2 g-0">
+                                        <div class="col-md-4 text-center">
+                                            <img src="img/berita2.jpg" class="img-fluid mx-2 rounded-5 my-3 " alt="...">
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="card-body">
+                                                <h6 class="card-title text-black"><strong>Juara LKS DIY 2022,SMK 1
+                                                        BANTUL menuju
+                                                        LKS
+                                                        Tingkat
+                                                        Nasional</strong></h6>
+                                                <p class="card-text"><small class="text-muted">Posted on
+                                                        20-7-2022</small>
+                                                </p>
+                                                <p class="card-text"><small class="text-muted">Author :
+                                                        Administator</small>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div data-aos="fade-right">
-                            <a href="#" class="text-decoration-none " data-bs-toggle="tooltip" data-bs-placement="right"
-                                title="Klik untuk melihat detail berita">
-                                <div class="d-flex text-black shadow-sm my-2 link-1">
-                                    <img src="img/berita3.jpeg" alt="Berita 1" srcset="">
-                                    <h6 class="ps-3  py-3"><strong>Juara LKS DIY 2022,SMK 1 BANTUL menuju LKS
-                                            Tingkat
-                                            Nasional</strong>
-                                    </h6>
-                                </div>
-                            </a>
+                            <div class="card mb-3">
+                                <a href="#" class="link-1 text-decoration-none">
+                                    <div class="row row-cols-2 g-0">
+                                        <div class="col-md-4 text-center">
+                                            <img src="img/berita3.jpeg" class="img-fluid mx-2 rounded-5 my-3 "
+                                                alt="...">
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="card-body">
+                                                <h6 class="card-title text-black"><strong>Juara LKS DIY 2022,SMK 1
+                                                        BANTUL menuju
+                                                        LKS
+                                                        Tingkat
+                                                        Nasional</strong></h6>
+                                                <p class="card-text"><small class="text-muted">Posted on
+                                                        20-7-2022</small>
+                                                </p>
+                                                <p class="card-text"><small class="text-muted">Author :
+                                                        Administator</small>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div data-aos="fade-right">
-                            <a href="#" class="text-decoration-none " data-bs-toggle="tooltip" data-bs-placement="right"
-                                title="Klik untuk melihat detail berita">
-                                <div class="d-flex text-black shadow-sm my-2 link-1">
-                                    <img src="img/berita1.jpeg" alt="Berita 1" srcset="">
-                                    <h6 class="ps-3  py-3"><strong>Juara LKS DIY 2022,SMK 1 BANTUL menuju LKS
-                                            Tingkat
-                                            Nasional</strong>
-                                    </h6>
-                                </div>
-                            </a>
+                            <div class="card mb-3">
+                                <a href="#" class="link-1 text-decoration-none">
+                                    <div class="row row-cols-2 g-0">
+                                        <div class="col-md-4 text-center">
+                                            <img src="img/berita4.jpeg" class="img-fluid mx-2 rounded-5 my-3 "
+                                                alt="...">
+                                        </div>
+                                        <div class="col-md-8">
+                                            <div class="card-body">
+                                                <h6 class="card-title text-black"><strong>Juara LKS DIY 2022,SMK 1
+                                                        BANTUL menuju
+                                                        LKS
+                                                        Tingkat
+                                                        Nasional</strong></h6>
+                                                <p class="card-text"><small class="text-muted">Posted on
+                                                        20-7-2022</small>
+                                                </p>
+                                                <p class="card-text"><small class="text-muted">Author :
+                                                        Administator</small>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="row row-cols-1 row-cols-md-2 g-4 my-3">
                             <div class="col-12 col-md-7 ">
