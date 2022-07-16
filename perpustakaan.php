@@ -10,7 +10,7 @@
         <div class="col-12 col-md-8">
             <div class="card shadow">
                 <div class="px-3 py-3">
-                    <div data-aos="fade-left">
+                    <div data-aos="fade-right">
                         <h4>CITRA Widya Mandhala Pustaka</h4>
                     </div>
                     <div data-aos="fade-right" data-aos-delay="300">
