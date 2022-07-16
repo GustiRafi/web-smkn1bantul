@@ -47,6 +47,7 @@
                         <?php }?>
                     </table>
 
+
                     <div class="row row-cols-1 row-cols-md-2 g-4 my-3">
                         <div class="col-12 col-md-4">
                             <div data-aos="fade-right">
