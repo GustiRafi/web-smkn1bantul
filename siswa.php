@@ -72,7 +72,7 @@
                             </div>
                         </div>
                         <div class="col-12 col-md-8">
-                            <div data-aos="fade-left" data-aos-delay="500">
+                            <div data-aos="fade-right" data-aos-delay="500">
                                 <div class="my-3 rounded-3 shadow-sm" style="background-color:  rgb(212, 207, 207);">
                                     <div class="bg-info rounded-3 ">
                                         <h5 class=" py-3 px-3">Testimoni Alumni SKANSABA</h5>

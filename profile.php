@@ -12,14 +12,19 @@
         <div class="col-12 col-md-8">
             <div class="card shadow">
                 <div class="ps-3 pt-3">
-                    <div data-aos="fade-left">
+                    <div data-aos="fade-right">
                         <h4>Sejarah Singkat</h4>
-                        <div class="card mb-3 me-3">
-                            <div class="row g-0">
-                                <div class="col-md-4">
+                    </div>
+
+                    <div class="card mb-3 me-3">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                <div data-aos="fade-right">
                                     <img src="img/smk2.jpg" class="img-fluid rounded-start pt-3 ps-3" alt="...">
                                 </div>
-                                <div class="col-md-8">
+                            </div>
+                            <div class="col-md-8">
+                                <div data-aos="fade-right">
                                     <div class="card-body">
                                         <p class="card-text">Terdiri pada tahun 1968 berdasarkan Surat Keputusan Menteri
                                             Pendidikan dan Kebudayaan Nomor :
@@ -64,7 +69,7 @@
                     </div>
                 </div>
                 <div class="py-3 px-3">
-                    <div data-aos="fade-left">
+                    <div data-aos="fade-right">
                         <h4>Visi Misi</h4>
                     </div>
                     <div class="row row-cols-1 row-cols-2 g-4 mt-3">
@@ -126,7 +131,7 @@
                     </div>
                 </div>
                 <div class="py-3 px-3">
-                    <div data-aos="fade-left">
+                    <div data-aos="fade-right">
                         <h4>Bidang Keahlian</h4>
                     </div>
                     <div class="row row-cols-1 row-cols-2 g-4 mt-3">
