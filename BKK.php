@@ -10,63 +10,80 @@
         <div class="col-12 col-md-8">
             <div class="card shadow">
                 <div class="px-3 py-3">
-                    <h4>BKK</h4>
-                    <p>Daftar Dudika yg kerjasama dg BKK antara lain :
-                    </p>
-                    <ol>
-                        <li>PT. Busana Remaja Acracipta</li>
-                        <li>MATAHARI group</li>
-                        <li>MIROTA KAMPUS</li>
-                        <li>PT. AMEYA</li>
-                        <li>Toko Gardena</li>
-                        <li>Toko Mas Semar Nusantara</li>
-                        <li>CV. Aulia Pratama</li>
-                        <li>Shorum motor ADIRA</li>
-                        <li>PT.Paragon</li>
-                        <li>Ramayana</li>
-                        <li>Alfa Mart</li>
-                        <li>PT. Duta Wibawa Manda Putra</li>
-                        <li>PT. SMU</li>
-                        <li>DLL</li>
-                    </ol>
-
-                    <h4>Lowongan Pekerjaan</h4>
-                    <div class="border border-5 border-info"></div>
+                    <div data-aos="fade-right">
+                        <h4>BKK</h4>
+                        <p>Daftar Dudika yg kerjasama dg BKK antara lain :
+                        </p>
+                    </div>
+                    <div data-aos="fade-right">
+                        <ol>
+                            <li>PT. Busana Remaja Acracipta</li>
+                            <li>MATAHARI group</li>
+                            <li>MIROTA KAMPUS</li>
+                            <li>PT. AMEYA</li>
+                            <li>Toko Gardena</li>
+                            <li>Toko Mas Semar Nusantara</li>
+                            <li>CV. Aulia Pratama</li>
+                            <li>Shorum motor ADIRA</li>
+                            <li>PT.Paragon</li>
+                            <li>Ramayana</li>
+                            <li>Alfa Mart</li>
+                            <li>PT. Duta Wibawa Manda Putra</li>
+                            <li>PT. SMU</li>
+                            <li>DLL</li>
+                        </ol>
+                    </div>
+                    <div data-aos="fade-right">
+                        <h4>Lowongan Pekerjaan</h4>
+                    </div>
+                    <div data-aos="fade-right">
+                        <div class="border border-5 border-info"></div>
+                    </div>
                     <div class="row row-cols-1 row-cols-md-2 g-4 my-3">
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/loker1.jpg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/loker1.jpg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/loker2.jpg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/loker2.jpg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/loker2.jpg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/loker2.jpg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/loker4.jpg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/loker4.jpg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/loker5.jpg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/loker5.jpg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
