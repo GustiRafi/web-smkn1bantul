@@ -10,49 +10,63 @@
         <div class="col-12 col-md-8">
             <div class="card shadow">
                 <div class="px-3 py-3">
-                    <h4>Galery Photo</h4>
+                    <div data-aos="fade-right">
+                        <h4>Galery Photo</h4>
+                    </div>
                     <div class="row row-cols-1 row-cols-md-2 g-4">
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/galeri1.JPG" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/galeri1.JPG" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/galeri6.jpeg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/galeri6.jpeg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/galeri2.jpeg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/galeri2.jpeg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/galeri3.jpeg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/galeri3.jpeg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/galeri4.jpeg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/galeri4.jpeg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                         <div class="col">
-                            <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
-                                <div class="card">
-                                    <img src="img/galeri5.jpeg" class="card-img-top" alt="img/galeri1.JPG">
-                                </div>
-                            </a>
+                            <div data-aos="zoom-in">
+                                <a type="button" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                                    <div class="card">
+                                        <img src="img/galeri5.jpeg" class="card-img-top" alt="img/galeri1.JPG">
+                                    </div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                     <nav aria-label="Page navigation example ">
@@ -69,24 +83,36 @@
                         </ul>
                     </nav>
                 </div>
-                <div class="border border-5 border-info"></div>
+                <div data-aos="fade-right">
+                    <div class="border border-5 border-info"></div>
+                </div>
                 <div class="px-3 py-3">
-                    <h4>Galery Video</h4>
+                    <div data-aos="fade-right">
+                        <h4>Galery Video</h4>
+                    </div>
                     <div class="row row-cols-1 row-cols-md-2 g-4 mt-3">
                         <div class="col">
-                            <div class="card">
-                                <iframe class="text-center" height="197" src="https://www.youtube.com/embed/3wbUAGW8s2c"
-                                    title="DEMI PRESTASI | SHORT MOVIE KARYA SISWA SMK N 1 BANTUL 2022" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
+                            <div data-aos="zoom-in">
+                                <div class="card">
+                                    <iframe class="text-center" height="197"
+                                        src="https://www.youtube.com/embed/3wbUAGW8s2c"
+                                        title="DEMI PRESTASI | SHORT MOVIE KARYA SISWA SMK N 1 BANTUL 2022"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                        allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
                         <div class="col">
-                            <div class="card">
-                                <iframe class="text-center" height="197" src="https://www.youtube.com/embed/3wbUAGW8s2c"
-                                    title="DEMI PRESTASI | SHORT MOVIE KARYA SISWA SMK N 1 BANTUL 2022" frameborder="0"
-                                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
+                            <div data-aos="zoom-in">
+                                <div class="card">
+                                    <iframe class="text-center" height="197"
+                                        src="https://www.youtube.com/embed/3wbUAGW8s2c"
+                                        title="DEMI PRESTASI | SHORT MOVIE KARYA SISWA SMK N 1 BANTUL 2022"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                        allowfullscreen></iframe>
+                                </div>
                             </div>
                         </div>
                     </div>
