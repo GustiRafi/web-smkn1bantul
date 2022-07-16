@@ -61,7 +61,7 @@
                     <img src="img/kepalasekolah.jpeg" alt="" srcset="">
                     <p class="ps-2">Assalamualaikum Wr Wb.
                         Selamat datang di web SMK Negeri 1 Bantul dengan motto My School Zero Waste Green Is Life...
-                        <a href="Sambutan-Ks.php">
+                        <a href="#">
                             <button class="btn btn-outline-primary pt-2">Detail</button>
                         </a>
                     </p>
