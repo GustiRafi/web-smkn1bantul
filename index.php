@@ -18,7 +18,7 @@
         <div class="container">
             <div class="col d-flex">
                 <img src="img/logo.png" width="70px" height="70px" alt="logo smk 1 Bantul" srcset="">
-                <h2 class="ps-3 " href="#"><strong>SMK NEGERI 1 BANTUL</strong></h2>
+                <h2 class="ps-3 "><strong>SMK NEGERI 1 BANTUL</strong></h2>
             </div>
             <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasExample"
                 aria-expanded="false aria-controls" id="tgl" offcanvasExample">
@@ -147,7 +147,7 @@
                         </div>
                         <div data-aos="fade-right">
                             <div class="card mb-3">
-                                <a href="#" class="link-1 text-decoration-none">
+                                <a href="Detail-berita.php" class="link-1 text-decoration-none">
                                     <div class="row row-cols-2 g-0">
                                         <div class="col-md-4 text-center">
                                             <img src="img/berita1.jpeg" class="img-fluid mx-2 rounded-5 my-3 "
@@ -174,7 +174,7 @@
                         </div>
                         <div data-aos="fade-right">
                             <div class="card mb-3">
-                                <a href="#" class="link-1 text-decoration-none">
+                                <a href="Detail-berita.php" class="link-1 text-decoration-none">
                                     <div class="row row-cols-2 g-0">
                                         <div class="col-md-4 text-center">
                                             <img src="img/berita2.jpg" class="img-fluid mx-2 rounded-5 my-3 " alt="...">
@@ -200,7 +200,7 @@
                         </div>
                         <div data-aos="fade-right">
                             <div class="card mb-3">
-                                <a href="#" class="link-1 text-decoration-none">
+                                <a href="Detail-berita.php" class="link-1 text-decoration-none">
                                     <div class="row row-cols-2 g-0">
                                         <div class="col-md-4 text-center">
                                             <img src="img/berita3.jpeg" class="img-fluid mx-2 rounded-5 my-3 "
@@ -227,7 +227,7 @@
                         </div>
                         <div data-aos="fade-right">
                             <div class="card mb-3">
-                                <a href="#" class="link-1 text-decoration-none">
+                                <a href="Detail-berita.php" class="link-1 text-decoration-none">
                                     <div class="row row-cols-2 g-0">
                                         <div class="col-md-4 text-center">
                                             <img src="img/berita4.jpeg" class="img-fluid mx-2 rounded-5 my-3 "
@@ -280,7 +280,9 @@
                                             Negeri 1 Bantul menerima Peserta Didik baru Tahun Pelajaran 2020/2021.
                                             Dengan
                                         </p>
-                                        <button class="btn btn-outline-dark mt-3">Detail</button>
+                                        <a href="Detail-ppdb.php">
+                                            <button class="btn btn-outline-dark mt-3 w-100">Detail</button>
+                                        </a>
                                     </div>
                                 </div>
                             </div>
